@@ -1,6 +1,6 @@
 name: Federal Incentives
 highlighter: pygments
-baseurl: "/federal-incentives"
+baseurl: "/reading-room"
 exclude:
   - .bundle
   - .git
