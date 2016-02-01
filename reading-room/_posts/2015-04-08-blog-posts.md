@@ -1,6 +1,6 @@
 ---
 
-permalink: "reading-room.html"
+permalink: 
 
 layout: sidebar
 
@@ -8,7 +8,7 @@ title: Blog Posts
 
 section: reading-room
 
-published: true
+published: false
 
 ---
 
