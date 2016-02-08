@@ -2,7 +2,7 @@
 
 permalink: "press-releases.html"
 
-layout: sidebar
+layout: plain
 
 title: Press Releases and Speeches
 

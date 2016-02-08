@@ -1,6 +1,6 @@
 ---
 permalink: "ambassador-videos.html"
-layout: sidebar
+layout: plain
 title: U.S. Ambassadors Interviews on SelectUSA
 section: "reading-room"
 published: true

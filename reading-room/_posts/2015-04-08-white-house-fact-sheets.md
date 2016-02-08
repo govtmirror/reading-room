@@ -2,7 +2,7 @@
 
 permalink: "white-house-fact-sheets.html"
 
-layout: sidebar
+layout: plain
 
 title: White House Fact Sheets
 

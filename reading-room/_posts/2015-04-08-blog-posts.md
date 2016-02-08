@@ -2,7 +2,7 @@
 
 permalink: 
 
-layout: sidebar
+layout: plain
 
 title: Blog Posts
 

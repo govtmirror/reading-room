@@ -2,7 +2,7 @@
 
 permalink: "email-updates.html"
 
-layout: sidebar
+layout: plain
 
 title: Email Updates
 
