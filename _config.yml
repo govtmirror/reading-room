@@ -1,5 +1,5 @@
 name: Federal Incentives
-highlighter: pygments
+highlighter: rouge
 baseurl: "/reading-room"
 exclude:
   - .bundle
